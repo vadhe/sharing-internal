@@ -110,7 +110,7 @@ transition: slide-up
 <a href="https://github.com/zero-one-group/zog-ui">ZOG</a> UI is a design system we are trying to develop, hoping that collaboration and efficiency in developing new projects will increase.
 
 
-<img src="zog.png" />
+<img src="/zog.png" />
 
 <style>
 img{
